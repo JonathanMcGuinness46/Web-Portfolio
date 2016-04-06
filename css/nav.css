@@ -1,0 +1,46 @@
+
+
+
+	  
+nav	{
+	border-width:5px;	
+        border-style:groove;
+	width:900px;
+	margin: auto;
+	list-style:none;
+	}
+
+
+nav ul {
+    	list-style-type: none;
+    	margin: 0;
+    	padding: 0;
+   	 overflow: hidden;
+	}
+		
+nav li {
+    	float: left;
+	}
+	
+	
+nav a:link, nav a:visited {
+    display: block;
+    width: 120px;
+    font-weight: bold;
+    color: black;
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    margin:60px;
+    text-decoration: none;
+    text-transform: uppercase;
+    border:1px solid white;
+    text-shadow: 1px 1px grey;
+}
+
+nav a:hover, nav a:active {
+    background-color: black;
+    color: white;
+    ;
+}
+

@@ -1,0 +1,78 @@
+.main {
+       border-width:5px;	
+       border-style:groove;
+       weight:960px;
+       height:400px;
+      }
+
+
+.sub  {
+	border-style:dotted;
+	weight:300px;
+	height:200px;
+	padding:10px;
+      }
+      
+h1    { 
+	text-align:center;
+	font-style: italic;
+      }
+      
+      
+.photos img {
+	     weight:200;
+	     height:200;
+	     padding:15px;
+	     float:right;
+	   }
+	   
+
+.photos p  { 
+	     font-size:20px;
+	     font-fanily:Arial;
+	   } 
+	   
+	   
+.designs img {
+	      padding:5px;
+	     }
+
+
+.two img     {
+	      float:right;
+	      border-style:dotted;
+	      postion:top;
+	     }
+	    
+	    
+      
+.links p  { 
+	     font-size:20px;
+	     font-fanily:Arial;
+	   } 
+	   
+footer     { 
+	     text-align:center;
+	   }
+	   
+p  	   { 
+	     font-size:20px;
+	     font-fanily:Arial;
+	   } 
+	   
+.pic img   {
+	     float:right;
+	      position: absolute;
+	      right: 20px;
+	      bottom: 110px;
+    	      z-index: -1;
+	   }
+
+.img-circle {
+   	      border-radius: 50%;
+	    }
+	    
+
+
+
+	  
